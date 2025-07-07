@@ -7,7 +7,7 @@ const projects =[
         description:"This project analyzes YouTube comments to generate sentiment summaries using both rule-based methods and Google's Gemini AI. The system processes comment data, performs sentiment analysis, extracts keywords, and creates insightful video summaries accessible via a graphical interface.",
         image:"/projects/genAI.png",
         tags:["Python","Google Gemini AI","Sentiment Analysis","Natural Language Processing","Prompt Engineering"],
-        github:"#"
+        github:"https://github.com/ehtisham2005/youtube-video-performance-summarizer.git"
     },
     {
         id:2,
@@ -23,7 +23,7 @@ const projects =[
         description:"This project implements a complete backend solution for a YouTube clone, utilizing Node JS, Express JS, and MongoDB. It includes user authentication, video uploads, comment management, and a RESTful API to support frontend interactions.",
         image:"/projects/backend.png",
         tags:["Node JS","Express JS","MongoDB","RESTful API","Authentication"],
-        github:"#"
+        github:"https://github.com/ehtisham2005/indieTube-backend-structure.git"
     }
 ]
 
