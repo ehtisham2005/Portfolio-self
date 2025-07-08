@@ -9,7 +9,7 @@ export const AboutSection = () => {
                     <h3 className="text-2xl font-semibold">Passionate Web Developer & AI Engineer</h3>
                     <p className="text-muted-foreground">I am an enthusiastic Full Stack Developer and AI Engineer currently in my third year at VIT Vellore, maintaining a CGPA of 9.58. I have developed numerous web development projects and worked extensively with Generative AI models, earning a certification in Gen AI from IBM. In addition to my technical skills, I am a passionate logo designer, having created a variety of unique logos for different brands and projects. I love blending creativity with technology to deliver innovative solutions.</p>
                     <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                        <a href="#contact" className="cosmic-button">Get In Touch</a>
+                        <a href="#Contact" className="cosmic-button">Get In Touch</a>
                         
                     </div>
                 </div>

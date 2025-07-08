@@ -17,6 +17,7 @@ export const HeroSection = () => {
                     <div className="opacity-0 animate-fade-in-delay-4 pt-4">
                         <a href="#projects" className="cosmic-button">View My work</a>
                     </div>
+                    <p className="text-sm font-bold text-primary opacity-0 animate-fade-in-delay-4"> Switch To Dark Mode For Better Experience</p>
  
   
                 </div>
