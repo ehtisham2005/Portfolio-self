@@ -15,7 +15,7 @@ const projects =[
         description:"This project showcases my skills and experiences through a visually appealing portfolio website built with React JS and Tailwind CSS. It features a responsive design, smooth animations, and an intuitive user interface to highlight my work effectively.",
         image:"/projects/webProject.png",
         tags:["React JS","Tailwind CSS","Responsive Design","UI/UX Design"],
-        github:"#"
+        github:"#hero"
     },
     {
         id:3,
